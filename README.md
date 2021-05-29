@@ -1,0 +1,4 @@
+SRM Inventory service
+
+
+
